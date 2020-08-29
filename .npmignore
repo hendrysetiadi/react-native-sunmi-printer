@@ -1,0 +1,5 @@
+/.github
+/examples
+/android/build
+circle.yml
+commitlint.config.js

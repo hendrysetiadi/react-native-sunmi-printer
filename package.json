@@ -1,0 +1,34 @@
+
+{
+  "name": "react-native-sunmi-printer",
+  "version": "1.0.0",
+  "description": "React Native Library for SUNMI Inner Printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "sunmi",
+    "printer",
+    "android-pos-terminal",
+    "android-terminal",
+    "pos-terminal"
+  ],
+  "author": {
+    "name": "Hendry Setiadi",
+    "email": "hendrysetiadi.hs@gmail.com"
+  },
+  "homepage": "https://github.com/hendrysetiadi/react-native-sunmi-printer",
+  "bugs": {
+    "url": "https://github.com/hendrysetiadi/react-native-sunmi-printer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hendrysetiadi/react-native-sunmi-printer.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
