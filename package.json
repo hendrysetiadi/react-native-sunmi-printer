@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sunmi-printer",
+  "name": "@hendrysetiadi/react-native-sunmi-printer",
   "version": "0.2.0",
   "description": "React Native Library for SUNMI Inner Printer",
   "source": "./src/index.tsx",

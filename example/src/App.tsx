@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import { Colors } from 'react-native/Libraries/NewAppScreen';
 import { useEffect, useState } from 'react';
-import SunmiPrinter from 'react-native-sunmi-printer';
+import SunmiPrinter from '@hendrysetiadi/react-native-sunmi-printer';
 
 export default function App() {
   const isDarkMode = useColorScheme() === 'dark';

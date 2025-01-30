@@ -5,17 +5,17 @@ React Native Library for SUNMI Inner Printer (Android only)
 ## Installation
 
 ```sh
-npm install react-native-sunmi-printer
+npm install @hendrysetiadi/react-native-sunmi-printer
 ```
 
 ## Usage
 
 ```js
-import SunmiPrinter from 'react-native-sunmi-printer';
+import SunmiPrinter from '@hendrysetiadi/react-native-sunmi-printer';
 
 // or ES6+ destructured imports
 
-import { initPrinter } from 'react-native-device-info';
+import { initPrinter } from '@hendrysetiadi/react-native-sunmi-printer';
 ```
 
 ## API
